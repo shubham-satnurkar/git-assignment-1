@@ -1,0 +1,1 @@
+Some Text add to text2 file for information about the assignment in git
